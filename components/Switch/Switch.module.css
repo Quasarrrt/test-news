@@ -1,0 +1,36 @@
+.ul {
+    padding: 0;
+    display: flex;
+    list-style-type: none;
+    margin:0 0 8px 24px ;
+}
+.li {
+    margin-right: 21px;
+}
+.link {
+    font-weight: normal;
+    font-size: 19.4px;
+    text-transform: uppercase;
+    color: #282828;
+}
+.link_active {
+    font-weight: normal;
+    font-size: 19.4px;
+    text-transform: uppercase;
+    color: #F38066;
+}
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 360px) {
+    .ul {
+        margin:0 0 12px 16px ;
+    }
+    .link, .link_active {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .li {
+        margin-right:13px;
+    }
+}

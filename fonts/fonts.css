@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Swiss721";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("Swiss721-Bold/Swiss721-Bold.woff2") format("woff2"),
+    url("Swiss721-Bold/Swiss721-Bold.woff") format("woff"),
+    url("Swiss721-Bold/Swiss721-Bold.ttf") format("ttf"),
+    url("Swiss721-Bold/Swiss721-Bold.eot") format("eot");
+}
+@font-face {
+    font-family: "Swiss721";
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("Swiss721-Medium/Swiss721-Medium.woff2") format("woff2"),
+    url("Swiss721-Medium/Swiss721-Medium.woff") format("woff"),
+    url("Swiss721-Medium/Swiss721-Medium.ttf") format("ttf"),
+    url("Swiss721-Medium/Swiss721-Medium.eot") format("eot");
+}
+@font-face {
+    font-family: "Swiss721";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("Swiss721-Regular/Swiss721-Regular.woff2") format("woff2"),
+    url("Swiss721-Regular/Swiss721-Regular.woff") format("woff"),
+    url("Swiss721-Regular/Swiss721-Regular.ttf") format("ttf"),
+    url("Swiss721-Regular/Swiss721-Regular.eot") format("eot");
+}
